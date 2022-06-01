@@ -20,7 +20,7 @@ const Contact = () => {
             </article>
             <article  id="contact__option">
               <RiMessengerLine  contact__option-icon/>
-              <h4>Messager</h4>
+              <h4>Messenger</h4>
               <h5>Click Me</h5>
               <a href="https://m.me/ibrede1"target="_blank">Send a message</a>
             </article>
