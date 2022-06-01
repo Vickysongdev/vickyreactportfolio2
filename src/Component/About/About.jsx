@@ -36,7 +36,7 @@ const About = () => {
               <small>20+ Completed</small>
             </article>
           </div>
-          <p>VickyTech software developer bringing solutions to the socaity within an all over the world. <br /> Let us  give your project a volume of time to speak worlwide</p> 
+          <p>VickyTech software developer bringing solutions to the society within, an all over the world. <br /> Let us  give your project a volume of time to speak worlwide</p> 
           <a href="#contact" class="btn btn-primary">Let's Talk</a>
         </div>
       </div>
