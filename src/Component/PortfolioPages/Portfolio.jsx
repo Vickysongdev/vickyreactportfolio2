@@ -64,7 +64,7 @@ const Portfolio = () => {
           <h3>This is a portfolio item</h3>
           <div  className="portfolio__item-cta">
           <a href="https://github.com/Vickysongdev/Agency-websit.git" class="btn"  target="_blank">GitHub</a>
-          <a href="https://https://dribbble.com" class="btn btn-primary" target='_blank'>Live Demo</a>
+          <a href="http://vickyspace.netlify.app" class="btn btn-primary" target='_blank'>Live Demo</a>
           </div>
         </article>
 
